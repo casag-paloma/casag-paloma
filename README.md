@@ -11,7 +11,7 @@
 
 <br />
 
-  I'm Paloma, a newly student at the coding arts, from Rio de Janeiro, Brazil. 
+I'm Paloma, a newly student at the coding arts, from Rio de Janeiro, Brazil. 
 
 ⚡ Fun facts:
 - my first contact with programming was with Python while majoring in material's science;
