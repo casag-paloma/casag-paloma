@@ -16,7 +16,7 @@ I'm Paloma, a newly student at the coding arts, from Rio de Janeiro, Brazil.
 ⚡ Fun facts:
 - my first contact with programming was with Python while majoring in material's science;
 - i published scientific papers in national meetings in Materials Engineering;  
-- i speak 3 languages (English, French and Brazilian - jk, we talk Portuguese here);
+- i speak 3 languages (English, French and Portuguese);
 - i have the most amazing cat: _Valentina Maria_ ;
 
 
